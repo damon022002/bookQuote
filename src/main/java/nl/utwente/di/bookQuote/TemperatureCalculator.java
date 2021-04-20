@@ -1,4 +1,4 @@
-package temperatureCalculator;
+package nl.utwente.di.bookQuote;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

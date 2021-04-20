@@ -1,4 +1,4 @@
-package temperatureCalculator;
+package nl.utwente.di.bookQuote;
 
 public class Calculator {
     public double calculate(String number) {

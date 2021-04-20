@@ -25,4 +25,15 @@
     <servlet-name>BookQuote</servlet-name>
     <url-pattern>/bookQuote</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description>TemperatureCalculator Servlet</description>
+    <display-name>TemperatureCalculator</display-name>
+    <servlet-name>TemperatureCalculator</servlet-name>
+    <servlet-class>temperatureCalculator.TemperatureCalculator</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>TemperatureCalculator</servlet-name>
+    <url-pattern>/temperatureCalculator</url-pattern>
+  </servlet-mapping>
+
 </web-app>

@@ -29,7 +29,7 @@
     <description>TemperatureCalculator Servlet</description>
     <display-name>TemperatureCalculator</display-name>
     <servlet-name>TemperatureCalculator</servlet-name>
-    <servlet-class>temperatureCalculator.TemperatureCalculator</servlet-class>
+    <servlet-class>nl.utwente.di.bookQuote.TemperatureCalculator</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>TemperatureCalculator</servlet-name>

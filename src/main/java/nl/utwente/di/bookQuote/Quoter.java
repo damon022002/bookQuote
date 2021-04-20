@@ -6,7 +6,6 @@ import java.util.HashMap;
 public class Quoter {
     public HashMap<String,Double> bookPrice = new HashMap<>();
     public double getBookPrice(String bookName) {
-        System.out.println(bookPrice.get(bookName));
         return bookPrice.getOrDefault(bookName, 0.0);
     }
 

@@ -16,7 +16,7 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <description>BookQuote Servlet</description>
+    <description>TemperatureCalculator Servlet</description>
     <display-name>BookQuote</display-name>
     <servlet-name>BookQuote</servlet-name>
     <servlet-class>nl.utwente.di.bookQuote.BookQuote</servlet-class>

@@ -23,6 +23,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>BookQuote</servlet-name>
-    <url-pattern>/BookQuote</url-pattern>
+    <url-pattern>/bookQuote</url-pattern>
   </servlet-mapping>
 </web-app>
